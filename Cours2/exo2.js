@@ -13,7 +13,4 @@ const Joe = {
     return moyenne;
   }
   
-  // Utilisation de la fonction
-  const moyenneEtudiant = calculerMoyenne(Joe);
-  console.log(`La moyenne de ${Joe.prenom} ${Joe.nom} est ${moyenneEtudiant}`);
-  
+ 
